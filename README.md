@@ -1,4 +1,4 @@
-### hello i'm srisanjana 👋
+## Hello i'm srisanjana 👋
 
 <!--
 **sriee19/sriee19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
