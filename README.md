@@ -3,7 +3,7 @@
 
 <h1 align="center">Hello peolple 👋 </h1>
 <div align="center">
-  <img height="150" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fbfe24c7f7db9b843e8602869974fe2d022441bb5583749ae2f84a85983fa52d4%2F68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966&tbnid=NLicAky4OKrdqM&vet=12ahUKEwiehuHqsar-AhW5_zgGHU7VD_UQMygBegQIARBI..i&imgrefurl=https%3A%2F%2Fgithub.com%2Fanjalisoni3655&docid=_xV2-OC26XCBKM&w=220&h=198&q=women%20coding%20gif&hl=en-GB&ved=2ahUKEwiehuHqsar-AhW5_zgGHU7VD_UQMygBegQIARBI"  />
+  <img height="150" src="girl.gif"  />
 </div>
 
 <!-- #social... -->
