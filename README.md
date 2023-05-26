@@ -1,7 +1,7 @@
 
 <!-- ### Header profile under construction (update soon 🚀).. -->
 
-<h1 align="center">Hello peolple 👋 </h1>
+<h1 align="center">Hello Amigos 👋 </h1>
 <!-- <div align="center">
 <!--   <img height="150" src=""  /> 
 </div> -->
