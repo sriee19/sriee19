@@ -149,4 +149,4 @@ const Srisanjana Arunkumar = {
 ---
 
 
-<!-- Proudly created with sriee -->
+Proudly created with sriee
