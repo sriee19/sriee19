@@ -31,7 +31,7 @@
 const Srisanjana Arunkumar = {
    pronouns: "she" | "her",
    code: [HTML,JS,CSS,PYTHON,VUEJS],
-   askMeAbout: ["Web Development","MachineLearning",Android app Development",Data Science],
+   askMeAbout: ["Web Development","MachineLearning",AndroidDevelopment",Data Science],
    technologies: {
        frontEnd: [
            Js: {"VueJs", "ReactJs"}
