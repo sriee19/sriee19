@@ -30,8 +30,8 @@
 ```javascript
 const Srisanjana Arunkumar = {
    pronouns: "she" | "her",
-   code: [HTML,JS,CSS,PYTHON],
-   askMeAbout: ["Web Development","MachineLearning"],
+   code: [HTML,JS,CSS,PYTHON,VUEJS],
+   askMeAbout: ["Web Development","MachineLearning",Android app Development",Data Science],
    technologies: {
        frontEnd: [
            Js: {"VueJs", "ReactJs"}
@@ -140,10 +140,10 @@ const Srisanjana Arunkumar = {
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
+<!--<div align="center">
   <img src="https://visitcount.itsvg.in/api?id=sriee19&icon=2&color=1"  />
-</div>
+</div>-->
 ---
 
 
-Proudly created with sriee
+Proudly created with Srisanjana Arunkumar
