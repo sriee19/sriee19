@@ -124,7 +124,7 @@ const Srisanjana Arunkumar = {
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sriee19&show_icons=true&locale=en&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="sri" /></p>
 
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriee19&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="sri" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriee19&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="sri" /></p>
 
 <p><img align="center" padding='20px' src="https://github-readme-stats.vercel.app/api/top-langs?username=sriee19&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="sri" /></p>
 
