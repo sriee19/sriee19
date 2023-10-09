@@ -49,7 +49,6 @@ const Srisanjana Arunkumar = {
 ```
 
 
-# 💻 Tech Stack:
 
 
 ### Front End:
