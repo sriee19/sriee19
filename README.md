@@ -12,6 +12,7 @@
 <h6>🌱 I’m currently learning Backend Web Development and Machine Learning.</h6>
 <h6>👯 I’m looking to collaborate on Full Stack App or Web Development Projects.</h6>
 <h6>⚡ Fun fact: I'm scared of darkness</h6>
+<h6>🔖 Follow me for more study materials</h6>
 
 
 
