@@ -36,10 +36,15 @@ const Srisanjana Arunkumar = {
        ],
        backEnd: [
            Bass: {"firebase"}
+	   Js: {"Nodejs","Expressjs"}
+	   DB: {"MongoDB"}
        ],
        DataScience: [
            Language: {"Python", "Machine Learning"}
        ],
+       Tools: [
+	   Api: {"Swagger","Postman"}
+	],
         
        competitive: [
 	   InterpretedLang: {"JS"}
@@ -68,6 +73,7 @@ const Srisanjana Arunkumar = {
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
 
+
 ### Programing Languages:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -93,7 +99,7 @@ const Srisanjana Arunkumar = {
 ### Tools:
 
 <!--![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)-->
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)-->
+ ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) 
@@ -111,7 +117,7 @@ const Srisanjana Arunkumar = {
 ![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
 ![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-<h3 align="center">A passionate front-end developer</h3>
+<h3 align="center">A passionate web developer</h3>
 <!-- ### 📊 GitHub Stats: -->
 <!-- ![](https://github-readme-stats.vercel.app/api?username=sriee19&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sriee19&theme=dracula&hide_border=false)
